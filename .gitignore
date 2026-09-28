@@ -1,0 +1,22 @@
+# Environnement virtuel
+.venv/
+venv/
+
+# Fichiers Python temporaires
+__pycache__/
+*.py[cod]
+
+# Configuration locale
+.env
+
+# Configuration PyCharm
+.idea/
+
+# Cache Streamlit
+.streamlit/secrets.toml
+
+# Historique des prédictions
+Data/predictions_history.csv
+
+# Fichiers internes de l'assistant
+.agents/
